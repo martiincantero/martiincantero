@@ -1,7 +1,3 @@
-Tu perfil de LinkedIn podría beneficiarse de una estructura más clara y profesional, resaltando tus habilidades, educación y experiencia de manera más impactante. Aquí tienes una propuesta de cómo organizar tu perfil en LinkedIn utilizando el contenido que me has proporcionado:
-
----
-
 # Martín Cantero | Estudiante de Administración de Sistemas Informáticos en Red | Aficionado a la Ciberseguridad
 
 ### 👋 ¡Hola! Soy Martín Cantero, un apasionado de la informática y un aprendiz constante, con 18 años y una gran motivación por el mundo de la tecnología. Actualmente, estoy cursando el **Grado Superior de Administración de Sistemas Informáticos en Red** mientras me formo por cuenta propia en **Ciberseguridad**. 
