@@ -3,7 +3,7 @@
 ### 👋 ¡Hola! Soy Martín Cantero, un apasionado de la informática y un aprendiz constante, con 18 años y una gran motivación por el mundo de la tecnología. Actualmente, estoy cursando el **Grado Superior de Administración de Sistemas Informáticos en Red** mientras me formo por cuenta propia en **Ciberseguridad**. 
 
 ### 🚀 Objetivo Profesional
-Me encuentro en pleno desarrollo de mis habilidades en el campo de la informática y la ciberseguridad, con el objetivo de integrar mis conocimientos en un entorno profesional. Mi propósito es convertirme en un especialista en **Sistemas Informáticos y Redes**, con un enfoque en la **Seguridad Informática**, protegiendo datos y sistemas de manera proactiva.
+Me encuentro en pleno desarrollo de mis habilidades en el campo de la informática y la ciberseguridad, con el objetivo de integrar mis conocimientos en un entorno profesional. Mi propósito es convertirme en un especialista en **Sistemas Informáticos y Redes**, con un enfoque en la **Ciberseguridad**, protegiendo datos y sistemas de manera proactiva.
 
 ---
 
@@ -50,13 +50,12 @@ Durante mi formación y proyectos autodidactas, he trabajado con una variedad de
 Mi enfoque ha estado en mejorar mis habilidades a través de proyectos prácticos. Aquí te comparto algunos proyectos en los que he trabajado:
 
 ### 🔐 **Seguridad Informática**
-- Configuración de entornos seguros con **Kali Linux**.
+- Configuración de entornos seguros.
 - Pruebas de penetración básicas y evaluaciones de vulnerabilidad.
-- Automatización de tareas con scripts en Bash para gestión de sistemas.
 
-### 🌐 **Desarrollo Web**
+### 🌐 **Proyectos**
 - Creación de sitios web básicos utilizando **HTML5**, **CSS3**, y **JavaScript**.
-- Implementación de bases de datos con **MySQL** para aplicaciones web simples.
+- Actualmente tengo un canal de YouTube donde subo contenido acerca de Sistemas Informáticos y Ciberseguridad
 
 ---
 
@@ -73,4 +72,3 @@ Mi enfoque ha estado en mejorar mis habilidades a través de proyectos práctico
 
 ---
 
-Este formato hace que tu perfil sea más atractivo, organizado y profesional, resaltando tus habilidades técnicas y proyectos de una manera clara y concisa.
