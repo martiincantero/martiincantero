@@ -16,9 +16,6 @@ Estoy cursando el Grado Superior de Administración de Sistemas Informáticos en
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=martiincantero&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martiicantero&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=martiincantero&show_icons=true&theme=dark)
 
-## Mis ultimos videos de Youtube
-<!-- BEGIN YOUTUBE-CARDS -->
-[COMO INSTALAR WINDOWS 11 con VirtualBox en 2024 ✅ Guía Paso a Paso](https://i.imgur.com/ENdc04T.png "Cafecito entre Devs ☕ | | Estudiar programación en la universidad")](https://www.youtube.com/watch?v=DVZWeB-U0vo)
-<!-- END YOUTUBE-CARDS -->
+
