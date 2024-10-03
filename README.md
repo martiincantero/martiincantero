@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Condor Coders
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Martín Cantero
 
-![Banner de Condor Coders](banner-github-condor-coders.png)
+![Banner](banner-github-condor-coders.png)
 
 
 Bienvenid@ a mí perfil, soy Martín, tengo 18 años y me considero una persona aficionada a la Informática desde hace bastantes años.
