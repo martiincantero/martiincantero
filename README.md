@@ -55,7 +55,6 @@ Mi enfoque ha estado en mejorar mis habilidades a través de proyectos práctico
 
 ### 🌐 **Proyectos**
 - Creación de sitios web básicos utilizando **HTML5**, **CSS3**, y **JavaScript**.
-- Actualmente tengo un canal de YouTube donde subo contenido acerca de Sistemas Informáticos y Ciberseguridad
 
 ---
 
