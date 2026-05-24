@@ -184,8 +184,6 @@ Actualmente me encuentro preparándome para cursar el **Curso de Especializació
 
 <div align="center">
 
-### 💡 "No me gusta quedarme solo en lo que se me asigna. Me involucro, propongo mejoras y busco entender el porqué de las cosas."
-
 [![Visitor Count](https://profile-counter.glitch.me/martiincantero/count.svg)](https://github.com/martiincantero)
 
 **⭐ Si te gusta mi trabajo, no dudes en seguirme o darle una estrella a mis repositorios ⭐**
