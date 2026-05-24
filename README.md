@@ -1,73 +1,193 @@
-# Martín Cantero | Estudiante de Administración de Sistemas Informáticos en Red | Aficionado a la Ciberseguridad
+<div align="center">
 
-### 👋 ¡Hola! Soy Martín Cantero, un apasionado de la informática y un aprendiz constante, con 18 años y una gran motivación por el mundo de la tecnología. Actualmente, estoy cursando el **Grado Superior de Administración de Sistemas Informáticos en Red** mientras me formo por cuenta propia en **Ciberseguridad**. 
+# 👋 Hola, soy Martín Cantero
 
-### 🚀 Objetivo Profesional
-Me encuentro en pleno desarrollo de mis habilidades en el campo de la informática y la ciberseguridad, con el objetivo de integrar mis conocimientos en un entorno profesional. Mi propósito es convertirme en un especialista en **Sistemas Informáticos y Redes**, con un enfoque en la **Ciberseguridad**, protegiendo datos y sistemas de manera proactiva.
+### Administrador de Sistemas · Monitoring N2
 
----
-
-## 🛠️ Tecnologías y Herramientas
-
-Durante mi formación y proyectos autodidactas, he trabajado con una variedad de tecnologías y herramientas que me han permitido desarrollar un perfil técnico versátil. Aquí algunas de las más destacadas:
-
-### Lenguajes y Tecnologías Web
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Bases de Datos
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Sistemas Operativos
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  - Distribuciones: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff), ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-- ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
-### Herramientas de Desarrollo y Edición
-- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-- [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](#)
-- [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-
-### Plataformas de Almacenamiento y Gestión
-- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
-- [![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)
-- [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)
-
-### Aprendizaje y Capacitación
-- [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)](#)
-- [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
-
-### IA y Asistentes de Código
-- [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
-- [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
-- [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martíncantero)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martiincantero)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martiincantero.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martincantero.it@hotmail.com)
 
 ---
 
-## 🧠 Proyectos y Experiencia
+</div>
 
-Mi enfoque ha estado en mejorar mis habilidades a través de proyectos prácticos. Aquí te comparto algunos proyectos en los que he trabajado:
+## 🚀 Sobre mí
 
-### 🔐 **Seguridad Informática**
-- Configuración de entornos seguros.
-- Pruebas de penetración básicas y evaluaciones de vulnerabilidad.
+Técnico de sistemas y monitorización con experiencia real en entornos de producción dentro del sector de la **visión artificial** y las **energías renovables**. Formo parte del equipo técnico de **3D Observer**, empresa líder en sistemas de visión artificial e IA para la protección de avifauna en parques eólicos.
 
-### 🌐 **Proyectos**
-- Creación de sitios web básicos utilizando **HTML5**, **CSS3**, y **JavaScript**.
+Como técnico **N2**, soy uno de los responsables de la **resolución de incidencias críticas** — intervengo directamente con clientes, tomo decisiones bajo presión y coordino con los equipos necesarios para garantizar la continuidad del servicio.
 
----
+**No me gusta quedarme solo en lo que se me asigna.** Me involucro, propongo mejoras, aprendo de cada situación y busco entender el **porqué** de las cosas, no solo resolverlas. Me motiva ver que los sistemas funcionan, que los problemas se resuelven bien y que cada día hay algo nuevo del que aprender.
 
-## 📊 Estadísticas en GitHub
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=martiincantero&show_icons=true&theme=dark)](https://github.com/martiincantero)
+Actualmente me encuentro preparándome para cursar el **Curso de Especialización en Inteligencia Artificial y Big Data**, el siguiente paso natural para seguir creciendo dentro del sector donde ya trabajo.
 
 ---
 
-## 🤝 Conéctate Conmigo
-- **GitHub**: [martiincantero](https://github.com/martiincantero)
-- **LinkedIn**: [linkedin.com/in/martíncantero](https://linkedin.com/in/martíncantero)  
-- **Email**: martincantero.it@hotmail.com
+## 💼 Experiencia Profesional
+
+### 🔧 **3D Observer Project, S.L.** | Massanasa, Valencia
+**Técnico de Sistemas & Monitorización N2** _(enero 2026 - actualidad)_
+- Gestión y resolución de **incidencias críticas** en infraestructura tecnológica
+- Intervención directa con clientes para diagnóstico y solución de problemas en tiempo real
+- Referente técnico en la **toma de decisiones** ante situaciones de alta criticidad
+- Monitorización continua mediante **Zabbix** y herramientas internas
+- Coordinación con equipos internos para garantizar disponibilidad de entornos de producción
+
+**Técnico de Sistemas & Monitorización N1** _(junio 2025 - enero 2026)_
+- Integración en la operativa de la empresa con foco en aprendizaje del funcionamiento interno
+- Soporte a clientes y otros departamentos
+- Participación en procesos de actualización de software interno y herramientas
+- Administración de sistemas y resolución de incidencias de primer nivel
+
+**Administrador de Sistemas & Ciberseguridad & Monitorización** _(mayo 2025)_
+- Prácticas de integración en equipo de monitorización
+- Propuesta de proyectos de mejora para infraestructura
+- Participación en pruebas de pentesting sobre aplicaciones en producción
+- Adquisición de visión global del entorno tecnológico
+
+### 🎓 **Colegio Trinitarias Torrent**
+**Técnico de Sistemas** _(febrero 2024 - junio 2024)_
+- Prácticas del CFGM con responsabilidades por encima del perfil habitual
+- Gestión de **firewall** y auditoría de **ciberseguridad**
+- Administración de **WordPress** y **Google Workspace**
+- Superación de 380 horas asignadas con infraestructura preparada para el curso siguiente
 
 ---
 
+## 🎓 Formación
+
+🎯 **Curso de especialización en IA y Big Data**  
+📍 Davante MEDAC | _2026 - 2027_
+
+🎯 **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
+📍 Enseñanzas Profesionales Sorolla | _2024 - 2026_
+
+💻 **Técnico en Sistemas Microinformáticos en Red**  
+📍 Enseñanzas Profesionales Sorolla | _2022 - 2024_
+
+📚 **Educación Secundaria Obligatoria (ESO)**  
+📍 Colegio Trinitarias Torrent | _2018 - 2022_
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💾 Sistemas Operativos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🏢 Microsoft 365 & Enterprise
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white)
+
+### 🐳 Virtualización & Contenedores
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 📊 Monitorización & Gestión
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-00A0E3?style=for-the-badge&logo=glpi&logoColor=white)
+
+### 🔐 Ciberseguridad & Networking
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-FF6600?style=for-the-badge&logo=firewall&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-0088CC?style=for-the-badge&logo=vpn&logoColor=white)
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 DevOps & Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ☁️ Cloud & Hosting
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 📜 Certificaciones
+
+🏆 **eJPTv2** | INE Security  
+🏆 **Network Defense** | Cisco Networking Academy  
+🏆 **Networking Basics** | Cisco Networking Academy  
+🏆 **Curso de Ciberseguridad y Hacking Ético**  
+🏆 **The Hour Of Code**  
+🏆 **Certificado de Alergias e Intolerancias Alimentarias**  
+
+---
+
+## 🏅 Reconocimientos
+
+🌍 **Acción por el Clima**  
+💻 **Hackathon "Hackea tu Futuro"**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martiincantero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martiincantero&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martiincantero&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF)
+
+</div>
+
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martíncantero)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martincantero.it@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_web-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://martiincantero.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "No me gusta quedarme solo en lo que se me asigna. Me involucro, propongo mejoras y busco entender el porqué de las cosas."
+
+[![Visitor Count](https://profile-counter.glitch.me/martiincantero/count.svg)](https://github.com/martiincantero)
+
+**⭐ Si te gusta mi trabajo, no dudes en seguirme o darle una estrella a mis repositorios ⭐**
+
+</div>
