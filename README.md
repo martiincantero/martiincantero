@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Martín Cantero
 
-### Administrador de Sistemas · Monitoring N2
+### Administrador de Sistemas de TI · IT/OT · IA & Big Data (próximamente)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martíncantero)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martiincantero)
@@ -15,42 +15,50 @@
 
 ## 🚀 Sobre mí
 
-Técnico de sistemas y monitorización con experiencia real en entornos de producción dentro del sector de la **visión artificial** y las **energías renovables**. Formo parte del equipo técnico de **3D Observer**, empresa líder en sistemas de visión artificial e IA para la protección de avifauna en parques eólicos.
+Administrador de Sistemas con experiencia real en entornos de producción dentro del sector de la **visión artificial** y las **energías renovables**. Formo parte del equipo técnico de **3D Observer**, empresa especializada en sistemas de visión artificial e IA para la protección de avifauna en parques eólicos.
 
-Como técnico **N2**, soy uno de los responsables de la **resolución de incidencias críticas** — intervengo directamente con clientes, tomo decisiones bajo presión y coordino con los equipos necesarios para garantizar la continuidad del servicio.
+Soy responsable de la **administración, mantenimiento y evolución de la infraestructura tecnológica** de la compañía, trabajando en entornos productivos IT y OT. Gestiono sistemas Windows Server y Linux, plataformas de virtualización (ProxMox) y la evolución de la monitorización mediante **Zabbix**, además de participar en proyectos de **ciberseguridad**, pentesting y automatización.
 
 **No me gusta quedarme solo en lo que se me asigna.** Me involucro, propongo mejoras, aprendo de cada situación y busco entender el **porqué** de las cosas, no solo resolverlas. Me motiva ver que los sistemas funcionan, que los problemas se resuelven bien y que cada día hay algo nuevo del que aprender.
 
-Actualmente me encuentro preparándome para cursar el **Curso de Especialización en Inteligencia Artificial y Big Data**, el siguiente paso natural para seguir creciendo dentro del sector donde ya trabajo.
+Actualmente curso el **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** y me preparo para iniciar en 2027 la **Especialización en Inteligencia Artificial y Big Data**, el siguiente paso natural para seguir creciendo dentro del sector donde ya trabajo.
 
 ---
 
 ## 💼 Experiencia Profesional
 
 ### 🔧 **3D Observer Project, S.L.** | Massanasa, Valencia
-**Técnico de Sistemas & Monitorización N2** _(enero 2026 - actualidad)_
+
+**Administrador de Sistemas de TI** _(abril 2026 - actualidad)_
+- Responsable de la administración, mantenimiento y evolución de la infraestructura tecnológica en entornos productivos **IT y OT**
+- Administración de sistemas **Windows Server** y **Linux**, y de plataformas de virtualización (**ProxMox**)
+- Gestión y evolución de la monitorización mediante **Zabbix**: sistemas, servicios e infraestructura
+- Participación en proyectos de **ciberseguridad**, pentesting y automatización aplicada a IA
+- Elaboración y mantenimiento de documentación técnica y procedimientos internos
+
+**Técnico de Sistemas y Monitorización N2** _(enero 2026 - abril 2026)_
 - Gestión y resolución de **incidencias críticas** en infraestructura tecnológica
 - Intervención directa con clientes para diagnóstico y solución de problemas en tiempo real
 - Referente técnico en la **toma de decisiones** ante situaciones de alta criticidad
 - Monitorización continua mediante **Zabbix** y herramientas internas
 - Coordinación con equipos internos para garantizar disponibilidad de entornos de producción
 
-**Técnico de Sistemas & Monitorización N1** _(junio 2025 - enero 2026)_
+**Técnico de Sistemas y Monitorización N1** _(junio 2025 - enero 2026)_
 - Integración en la operativa de la empresa con foco en aprendizaje del funcionamiento interno
 - Soporte a clientes y otros departamentos
 - Participación en procesos de actualización de software interno y herramientas
 - Administración de sistemas y resolución de incidencias de primer nivel
 
-**Administrador de Sistemas & Ciberseguridad & Monitorización** _(mayo 2025)_
-- Prácticas de integración en equipo de monitorización
+**Técnico de Sistemas — Prácticas (FCT)** _(mayo 2025)_
+- Integración en el equipo de monitorización, aprendizaje del flujo básico de operaciones
 - Propuesta de proyectos de mejora para infraestructura
 - Participación en pruebas de pentesting sobre aplicaciones en producción
-- Adquisición de visión global del entorno tecnológico
+- Adquisición de visión global del entorno tecnológico de la empresa
 
 ### 🎓 **Colegio Trinitarias Torrent**
 **Técnico de Sistemas** _(febrero 2024 - junio 2024)_
 - Prácticas del CFGM con responsabilidades por encima del perfil habitual
-- Gestión de **firewall** y auditoría de **ciberseguridad**
+- Gestión de **firewall** (SonicWall) y auditoría de **ciberseguridad**
 - Administración de **WordPress** y **Google Workspace**
 - Superación de 380 horas asignadas con infraestructura preparada para el curso siguiente
 
@@ -58,13 +66,13 @@ Actualmente me encuentro preparándome para cursar el **Curso de Especializació
 
 ## 🎓 Formación
 
-🎯 **Curso de especialización en IA y Big Data**  
-📍 Davante MEDAC | _2026 - 2027_
+🎯 **Especialización en Inteligencia Artificial y Big Data**  
+📍 Davante MEDAC | _Inicio previsto enero 2027_
 
 🎯 **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
 📍 Enseñanzas Profesionales Sorolla | _2024 - 2026_
 
-💻 **Técnico en Sistemas Microinformáticos en Red**  
+💻 **Técnico en Sistemas Microinformáticos y Redes (SMR)**  
 📍 Enseñanzas Profesionales Sorolla | _2022 - 2024_
 
 📚 **Educación Secundaria Obligatoria (ESO)**  
@@ -139,12 +147,12 @@ Actualmente me encuentro preparándome para cursar el **Curso de Especializació
 
 ## 📜 Certificaciones
 
-🏆 **eJPTv2** | INE Security  
+🏆 **eJPTv2 (Junior Penetration Tester)** | INE Security | 2025  
+🏆 **Ciberseguridad y Hacking Ético V2** | Enseñanzas Profesionales Sorolla | 2025  
+🏆 **Ciberseguridad y Hacking Ético V1** | Enseñanzas Profesionales Sorolla | 2024  
 🏆 **Network Defense** | Cisco Networking Academy  
 🏆 **Networking Basics** | Cisco Networking Academy  
-🏆 **Curso de Ciberseguridad y Hacking Ético**  
-🏆 **The Hour Of Code**  
-🏆 **Certificado de Alergias e Intolerancias Alimentarias**  
+🏆 **The Hour Of Code**
 
 ---
 
@@ -166,7 +174,6 @@ Actualmente me encuentro preparándome para cursar el **Curso de Especializació
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martiincantero&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF)
 
 </div>
-
 
 ---
 
