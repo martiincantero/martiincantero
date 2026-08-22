@@ -163,20 +163,6 @@ Actualmente curso el **Técnico Superior en Administración de Sistemas Informá
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martiincantero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martiincantero&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martiincantero&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
